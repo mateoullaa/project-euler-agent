@@ -69,7 +69,6 @@ project-euler-agent/
 ├── problems.txt             # Especificaciones matemáticas de los problemas 9 al 20
 ├── requirements.txt         # Dependencias Python
 ├── README.md                # Documentación del proyecto
-├── INFORME.md               # Informe académico para el ITR
 │
 ├── solutions/               # Scripts finales de cada problema resuelto
 │   ├── problem_09.py
@@ -77,11 +76,9 @@ project-euler-agent/
 │   ├── ...
 │   └── problem_20.py
 │
-├── logs/                    # Registro exhaustivo de intentos
-│   ├── agent_attempts.log   # Log humano detallado
-│   └── attempts.json        # Log estructurado en JSON
-│
-└── scratch/                 # Archivos temporales de ejecución por intento
+└── logs/                    # Registro exhaustivo de intentos
+    ├── agent_attempts.log   # Log humano detallado
+    └── attempts.json        # Log estructurado en JSON
 ```
 
 ---
