@@ -1,5 +1,5 @@
 # Agente Autónomo de IA para Project Euler (Problemas 9 al 20)
-**Instituto Técnico Renault — Cursado 2026**
+**Instituto Técnico Renault — 2026**
 
 Este repositorio contiene la implementación completa de un agente de inteligencia artificial diseñado para resolver problemas algorítmicos y matemáticos de [Project Euler](https://projecteuler.net) de forma autónoma, implementando un ciclo cerrado de ejecución, verificación y reintentos (auto-corrección).
 
